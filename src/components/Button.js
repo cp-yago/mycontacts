@@ -10,6 +10,7 @@ export default styled.button`
   font-weight: bold;
   border-radius: 4px;
   transition: background 0.2s ease-in;
+  color: #fff;
 
   &:hover {
     background: ${({ theme }) => theme.colors.primary.light};
