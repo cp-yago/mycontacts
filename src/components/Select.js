@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export default styled.input`
+export default styled.select`
   width: 100%;
   background: #fff;
   border: 2px solid #fff;
